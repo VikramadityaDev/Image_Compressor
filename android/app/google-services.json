@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899461432911",
+    "project_id": "image-compressor-9bd27",
+    "storage_bucket": "image-compressor-9bd27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899461432911:android:8321215e878957fc084c3a",
+        "android_client_info": {
+          "package_name": "com.example.image_compressor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899461432911-73jess48thf40uspn9n0o49k83cbppv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1iNuX5Hb8gGBMh0U_d614thGsRFLmGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899461432911-73jess48thf40uspn9n0o49k83cbppv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
